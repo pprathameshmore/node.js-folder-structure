@@ -1,6 +1,6 @@
 # Node.js Folder Structure
 
-## Inspired by [Inspired by Bulletproof Node.js](https://github.com/santiq/bulletproof-nodejs)
+## Inspired by [Bulletproof Node.js](https://github.com/santiq/bulletproof-nodejs)
 
 ### Development
 
